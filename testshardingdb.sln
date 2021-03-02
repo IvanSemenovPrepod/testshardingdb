@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testshardingdb", "testshardingdb\testshardingdb.csproj", "{5EDA97AF-2D05-496F-A749-3319B76FADBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDA97AF-2D05-496F-A749-3319B76FADBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDA97AF-2D05-496F-A749-3319B76FADBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDA97AF-2D05-496F-A749-3319B76FADBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDA97AF-2D05-496F-A749-3319B76FADBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD2AD52-97C3-477A-AED5-1CB5F41EFA67}
+	EndGlobalSection
+EndGlobal
